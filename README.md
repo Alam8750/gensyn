@@ -1,1 +1,7 @@
 # gensyn
+
+
+gensyn node
+
+
+.....
